@@ -61,10 +61,13 @@ Smart-Barrier-System/
 
 ---
 
-### 👤 Author
+### 👤 Contributors
 
-Rehmat Ullah  
+Rehmatullah Haqnawaz
+Umid Huseynov
+ 
 Constructor University — Robotics Lab
+
 
 
 
