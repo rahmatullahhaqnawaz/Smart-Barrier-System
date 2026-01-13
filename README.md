@@ -63,10 +63,11 @@ Smart-Barrier-System/
 
 ### 👤 Contributors
 
-Rehmatullah Haqnawaz
-Umid Huseynov
+1: Rehmatullah Haqnawaz (Team Lead)
+2: Umid Huseynov
  
 Constructor University — Robotics Lab
+
 
 
 
