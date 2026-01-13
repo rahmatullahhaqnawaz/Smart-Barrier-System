@@ -31,13 +31,22 @@ It uses an ultrasonic sensor to detect objects approaching the barrier, a servo 
 
 ---
 
-### 📁 Project Structure
-Smart-Barrier-System/
-├─ Arduino/
-│ └─ barrier.ino
-└─ README.md
+### 🎥 Demo
+
+Live demo on LinkedIn:
+https://www.linkedin.com/posts/rehmatullah-haqnawaz-4947b0291_robotics-arduino-embeddedsystems-activity-7416838276990263297-DKEo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEbGYbABT_DiO-75yDFLuWA4YbG60_rcDVI
 
 ---
+
+### 📁 Project Structure
+
+```
+Smart-Barrier-System/
+ ├─ Arduino/
+ │   └─ barrier.ino
+ └─ README.md
+```
+
 
 ### 🚀 Future Improvements
 
@@ -67,6 +76,7 @@ Smart-Barrier-System/
 2: Umid Huseynov
  
 Constructor University — Robotics Lab
+
 
 
 
